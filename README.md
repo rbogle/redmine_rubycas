@@ -10,7 +10,7 @@ A Plugin for Redmine 2 that utilizes the RubyCAS Client for CAS authentication.
 
 ## Support
 
-Tested against Redmine 2.2.2 and Ruby 1.9.3.
+Tested against Redmine 3.0 and Ruby 2.1.2 and Rails 4.2.1
 
 ## License
 
